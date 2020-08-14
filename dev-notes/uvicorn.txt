@@ -1,1 +1,0 @@
-# uvicorn main:app --log-level=trace --reload
