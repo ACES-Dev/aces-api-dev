@@ -1,0 +1,31 @@
+LICENSE
+/v1/licenses/{license}
+
+USERS
+/v1/users/{license}
+/v1/users/{license}/{user}
+
+# /v1/licenses/{license}/users
+# /v1/licenses/{license}/users/{user}
+
+CLIENTS
+/v1/clients/{license}
+/v1/clients/{license}/{client}
+
+PROJECTS
+/v1/projects/{license}
+/v1/projects/{license}/{project}
+
+PROJECT MEMBERS
+/v1/members/{project}
+/v1/members/{project}/{member}
+
+
+
+===================
+
+/v1/users
+/v1/licenses/{license}/users/{user}
+
+
+
